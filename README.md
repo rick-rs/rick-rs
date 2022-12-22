@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, me chamo Henrique Ribeiro</h1>
 <h3 align="center">Desenvolvedor backend, tecnólogo em Análise e Desenvolvimento de Sistemas</h3>
 
-> 🔭 Atualmente trabalhando em **migrações de dados entre sistemas de prontuário eletrônico**
+> 🔭 Trabalhando com **migrações de dados entre sistemas de prontuário eletrônico**
 
-> 🌱 Atualmente aprendendo **Django, Django Rest, Node.js**
+> 🌱 Aprendendo **Django, Django Rest, Node.js**
 
 > 💬 Pergunte-me sobre **Python, Pandas, ETL**
 
