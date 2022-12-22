@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, me chamo Henrique Ribeiro</h1>
-<h2 align="center">Um desenvolvedor backend brasileiro apaixonado por programação</h2>
+<h3 align="center">Desenvolvedor backend, tecnólogo em Análise e Desenvolvimento de Sistemas</h3>
 
 > 🔭 Atualmente trabalhando em **migrações de dados entre sistemas de prontuário eletrônico**
 
